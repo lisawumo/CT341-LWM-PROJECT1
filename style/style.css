@@ -65,7 +65,7 @@ span .font-pair1b{
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/3964655/pexels-photo-3964655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/2117937/pexels-photo-2117937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
 }
 
 .with-background {
@@ -107,13 +107,13 @@ article {
 }
 
 .first-article-container {
-  background-color: #000;
+  background-color: transparent;
 }
 
 .second-article-container {
-  background-color: #000;
+  background-color: transparent;
 }
 
 .third-article-container {
-  background-color: #000;
+  background-color: transparent;
 }
