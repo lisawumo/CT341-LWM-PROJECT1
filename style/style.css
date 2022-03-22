@@ -46,7 +46,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/5691475/pexels-photo-5691475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -61,11 +61,11 @@ span .font-pair1b{
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/5691474/pexels-photo-5691474.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/3964655/pexels-photo-3964655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
 }
 
 .with-background {
